@@ -4,7 +4,7 @@
 <br>
 <h3>É um projeto que é usado [HTML] [CSS], um projeto responsivo, desenvolvido para DESCTOP e MOBILE.</h3>
 <p>DESCTOP.</p>
-<img src="img/Captura de Tela desctop.png"/>
+<img src="img/Captura de Tela desctop.png" alt="Gill Cell"/>
 <p>MOBILE.</p>
-<img src="img/Captura de Tela mobile.png"/>
+<img src="img/Captura de Tela mobile.png" alt="Gill Cell"/>
 
